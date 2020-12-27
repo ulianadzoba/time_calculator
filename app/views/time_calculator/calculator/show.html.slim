@@ -1,0 +1,4 @@
+.date-form
+  = simple_form_for :calculator, remote: true, url: calculator_path do |f|
+    = f.input :date, as: :string, placeholder: 'Click to select date', input_html: { class: 'datetimepicker' }, wrapper_html: { class: 'date-field' }
+    = f.submit 'Calculate', class: 'date-submit-btn'

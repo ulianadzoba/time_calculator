@@ -1,0 +1,1 @@
+Rails.application.config.assets.paths << TimeCalculator::Engine.root.join('node_modules')

@@ -1,0 +1,17 @@
+{
+  "name": "mygem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:maxivak/mygem.git",
+  "author": "mmx <maxivak@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "3.2.1",
+    "jquery-ui-dist": "1.12.1",
+    "jquery-ujs": "1.2.2",
+    "bootstrap": "4.1.0",
+    "popper.js": "1.14.3",
+    "flatpickr": "^4.6.3",
+    "font-awesome": "4.7.0"
+  }
+}
