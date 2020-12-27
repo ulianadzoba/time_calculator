@@ -1,4 +1,4 @@
-`time_calculator` is an engine which calculate time left to your target date.
+`time_calculator` is an engine which calculate time left to your birthday.
 
 ## Installation
 
@@ -19,7 +19,7 @@ $ gem install time_calculator
 
 ## Usage
 
-Visit `/time_calculator/calculator` and select terget date
+Visit `/time_calculator/calculator` and select birthday
 
 or 
 
